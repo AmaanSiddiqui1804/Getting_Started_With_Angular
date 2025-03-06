@@ -1,0 +1,22 @@
+img{
+    width:25%;
+    margin: 0 auto;
+    display:block;
+}
+.input-div{
+    display: flex;
+    justify-content: center;
+align-items: center;
+}
+.input-button{
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+.error-output{
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: italic;
+    color: red;
+}

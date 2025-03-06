@@ -1,1 +1,1 @@
-Getting Started with angular Hello World App
+Getting Started with Angular
